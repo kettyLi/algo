@@ -1,2 +1,2 @@
-# expert-giggle
-hello world
+# basic algorithm
+
